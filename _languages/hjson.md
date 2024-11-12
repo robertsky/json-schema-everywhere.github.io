@@ -1,8 +1,8 @@
----
+![image](https://github.com/user-attachments/assets/32fa0042-509c-44a4-9fae-e03fc6d2378b)---
 title: Schema Validation for Hjson
 short_name: Hjson
 long_name: Hjson, a user interface for JSON
-project_url: http://hjson.org/
+project_url: https://hjson.github.io/
 logo: hjson.svg
 highlighting_language: hjson
 description_blurb: adds new language features and relaxes syntax restrictions aiming to make information entry easier and less error prone. Hjson only intends to be an intermediary between humans and JSON, as such the clear schema language is JSON Schema.
