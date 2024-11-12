@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32fa0042-509c-44a4-9fae-e03fc6d2378b)---
+---
 title: Schema Validation for Hjson
 short_name: Hjson
 long_name: Hjson, a user interface for JSON
